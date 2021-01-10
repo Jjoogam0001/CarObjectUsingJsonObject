@@ -30,9 +30,9 @@ public class App
         JsonIO JsonIO = new JsonIO();
         try {
             List<Owner> ownersback = new ArrayList<>();
-            JsonIO.serializeToJson(owners,new File("owners.json"));
-            JsonIO.serializeToJson(Cars,new File("cars.json"));
-            JsonIO.deserializeFromJson(new File("owners.json"));
+            JsonIO.serializeToJson(owners,new File("C:\\Users\\Martin Mujemya J\\Desktop\\CarObjectUsingJsonObject\\src\\main\\resources\\owners.json"));
+            JsonIO.serializeToJson(Cars,new File("C:\\Users\\Martin Mujemya J\\Desktop\\CarObjectUsingJsonObject\\src\\main\\cars.json"));
+            JsonIO.deserializeFromJson(new File("C:\\Users\\Martin Mujemya J\\Desktop\\CarObjectUsingJsonObject\\src\\main\\resources\\owners.json"));
 
 
         } catch (IOException e) {
