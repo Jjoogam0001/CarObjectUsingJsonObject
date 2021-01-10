@@ -1,0 +1,39 @@
+[ {
+  "ownerId" : "e8281ef0-6025-4287-a3eb-0249278e3953",
+  "firstanme" : "Martin",
+  "lastname" : "Mujemya",
+  "age" : 26,
+  "password" : "0Qz00KNXfgYNdGR1VpTHyGMdreCkOYKEOlLAxV63Q/s=",
+  "ownedCars" : [ {
+    "carid" : "bb79a8b0-4fa8-4271-a986-a60bdbfb9765",
+    "regnnumber" : "UEW 731",
+    "brand" : "Mazda",
+    "regnstnDate" : "2007-11-10",
+    "model" : "2013 COMBI 2.1"
+  }, {
+    "carid" : "0e96b68c-d37b-48a3-98b4-84609d442fec",
+    "regnnumber" : "TBH 367",
+    "brand" : "DOGDE",
+    "regnstnDate" : "2003-11-23",
+    "model" : "2014 SUV carnival"
+  } ]
+}, {
+  "ownerId" : "dfc7075c-2cad-4efd-91ce-0d6609414c33",
+  "firstanme" : "Kennedy",
+  "lastname" : "Marcus",
+  "age" : 27,
+  "password" : "qSis2QCH5obUpLs3ib8WOr3G7g4hM1xzxw+PpcEehHM=",
+  "ownedCars" : [ {
+    "carid" : "9def5495-54c9-4be7-a0b7-d69b5eb92a5a",
+    "regnnumber" : "UWS 765",
+    "brand" : "BENZ",
+    "regnstnDate" : "2020-11-10",
+    "model" : "2019 E220"
+  }, {
+    "carid" : "fb6bed60-d34b-407d-bf9d-e00d0981c1db",
+    "regnnumber" : "KTH 730",
+    "brand" : "OPEL",
+    "regnstnDate" : "2020-08-23",
+    "model" : "2010 T.12I "
+  } ]
+} ]
